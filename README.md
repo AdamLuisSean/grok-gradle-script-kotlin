@@ -1,1 +1,1 @@
-# grok-gradle-script-kotlin
+# grok gradle script kotlin
