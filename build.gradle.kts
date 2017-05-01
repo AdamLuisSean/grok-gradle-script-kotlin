@@ -15,6 +15,7 @@ plugins {
 
 apply {
     plugin("kotlin")
+    plugin("application")
 }
 
 application {
@@ -27,4 +28,5 @@ repositories {
 
 dependencies {
     compile(kotlinModule("stdlib"))
+    compile("com.squareup.okhttp3:okhttp:3.7.0")
 }
