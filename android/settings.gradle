@@ -15,5 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'grok-gradle-script-kotlin'
-rootProject.buildFileName = 'build.gradle.kts'
+rootProject.name = 'android'
